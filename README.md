@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michael-xavier&show_icons=true&theme=default&hide_title=false" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-xavier&layout=compact" alt="Linguagens mais usadas" height="165"/>
-</p>
-
----
-
 <p align="center">
   <em>Aberto a sugestões, colaborações e feedback — fique à vontade para explorar os repositórios.</em>
 </p>
